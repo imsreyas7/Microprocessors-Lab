@@ -1,5 +1,5 @@
 # Microprocessors-Lab
-Collection of programs done for the MP Lab course in College.
+Collection of Assembly Language Programs done for the Microprocessors Lab course in College.
 
 ## Exercises
 

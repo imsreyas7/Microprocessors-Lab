@@ -2,6 +2,8 @@
 Collection of programs done for the MP Lab course in College.
 
 ## Exercises
+
+## 8086
 1. 8 Bit Arithmetic Operations
 2. 16 Bit Arithmetic Operations
 3. String Operations
@@ -13,3 +15,9 @@ Collection of programs done for the MP Lab course in College.
 9. Floating Point Arithmetic Operations
 10. Display String
 11. System Date and Time
+
+## 8051
+
+1. Arithmetic Operations
+2. Cube of a Number
+3. Code Conversion

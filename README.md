@@ -15,6 +15,7 @@ Collection of Assembly Language Programs done for the Microprocessors Lab course
 9. Floating Point Arithmetic Operations
 10. Display String
 11. System Date and Time
+12. Largest in a List
 
 ## 8051
 

@@ -1,6 +1,10 @@
 # Microprocessors-Lab
 Collection of Assembly Language Programs done for the Microprocessors Lab course in College.
 
+## Software
+1. 8086 -  MASM and DOS
+2. 8051 - edsim51di
+
 ## Exercises
 
 ## 8086
